@@ -1,0 +1,21 @@
+.footerlincks {
+  padding: 20px;
+  color: rgb(0, 255, 34);
+}
+.footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: black;
+  color: rgb(0, 255, 34);
+}
+.imgFooter {
+  width: 10%;
+}
+.footerButton {
+  background-color: black;
+  color: rgb(0, 255, 34);
+  border: 2px solid rgb(0, 255, 34);
+  border-radius: 5px;
+  cursor: pointer;
+}
